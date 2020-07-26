@@ -2,13 +2,19 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/UdemyCan/[Ll]ibrary/metadata/
+/UdemyCan/**/StreamingAssets/build_info.txt
+/UdemyCan/**/assetDatabase3
+/UdemyCan/[Ll]ibrary/StateCache/
+/UdemyCan/**/.DS_Store
+/UdemyCan/[Ll]ibrary/ScriptAssemblies/
+/UdemyCan/[Tt]emp/
+/UdemyCan/**/CurrentLayout.dwlt
+#/UdemyCan/[Oo]bj/
+#/UdemyCan/[Bb]uild/
+#/UdemyCan/[Bb]uilds/
+#/UdemyCan/[Ll]ogs/
+#/UdemyCan/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
