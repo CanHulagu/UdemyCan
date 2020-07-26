@@ -16,6 +16,9 @@
 #/UdemyCan/[Ll]ogs/
 #/UdemyCan/[Mm]emoryCaptures/
 
+
+
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
@@ -64,3 +67,22 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+UdemyCan/Library/CurrentLayout.dwlt
+UdemyCan/Library/expandedItems
+UdemyCan/Library/APIUpdater/project-dependencies.graph
+UdemyCan/Library/SceneVisibilityState.asset
+UdemyCan/Library/ScriptAssemblies
+UdemyCan/Library/shadercompiler-UnityShaderCompiler0.log
+UdemyCan/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+UdemyCan/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+UdemyCan/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+UdemyCan/Temp/UnityLockfile
+UdemyCan/Library/assetDatabase3
+UdemyCan/Library/assetDatabase3
+UdemyCan/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+UdemyCan/Library/ScriptAssemblies/Assembly-CSharp.dll
+UdemyCan/Library/metadata
+UdemyCan/Assets/StreamingAssets/build_info.txt
+UdemyCan/Library/EditorInstance.json
+UdemyCan/Library/
+UdemyCan/obj/
